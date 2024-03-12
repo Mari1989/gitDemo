@@ -3,3 +3,5 @@ Hi Ganesh
 I am good
 
 Fixing the amount issue
+
+Handling Conflict 2
